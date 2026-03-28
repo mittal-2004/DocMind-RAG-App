@@ -45,7 +45,7 @@ uvicorn
 
 # UI (optional)
 
-streamlit
+streamlit==1.37.0
 
 # Utilities
 
