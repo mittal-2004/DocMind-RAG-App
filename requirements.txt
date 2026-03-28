@@ -44,8 +44,8 @@ fastapi
 uvicorn
 
 # UI (optional)
-
-streamlit
+streamlit==1.38.0
+pillow>=10.4.0
 
 # Utilities
 
