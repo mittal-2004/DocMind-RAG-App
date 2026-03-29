@@ -289,13 +289,8 @@ This app is deployed on **Streamlit Cloud** (free tier).
 [![GitHub](https://img.shields.io/badge/GitHub-mittal--2004-181717?style=for-the-badge&logo=github)](https://github.com/mittal-2004)
 [![Live App](https://img.shields.io/badge/Live_App-DocMind-FF4B4B?style=for-the-badge&logo=streamlit)](https://docmind-rag-app-h2h4qdm2ekmfx2byxg5nny.streamlit.app/)
 
----
 
-## 📄 License
 
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
 
 <div align="center">
 
